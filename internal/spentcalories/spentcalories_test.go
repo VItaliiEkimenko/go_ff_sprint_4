@@ -227,7 +227,7 @@ func (suite *SpentCaloriesTestSuite) TestDistance() {
 			name:     "ноль шагов",
 			steps:    0,
 			height:   1.75,
-			wantDist: 0,хж-
+			wantDist: 0,
 		},
 	}
 
